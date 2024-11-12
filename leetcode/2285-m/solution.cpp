@@ -4,19 +4,16 @@
 class Solution {
 public:
     long long maximumImportance(int n, vector<vector<int>>& roads) {
-        vector<int> count(n);
+        vector<int> degree(n);
         for (const auto& r : roads) {
-            ++count[r[0]];
-            ++count[r[1]];
+            ++degree[r[0]];
+            ++degree[r[1]];
         }
 
-        sort(count.begin(), count.end(), greater<int>{});
+        sort(degree.begin(), degree.end(), greater<int>{});
 
         long long res = 0;
-        auto it = count.begin();
-        while (n > 0) {
-            res += (long long)*it++ * n--;
-        }
+        for_each(degree.begin(), degree.end(), [&](long long d) { res += d * n--; });
 
         return res;
     }
