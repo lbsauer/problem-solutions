@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/remove-sub-folders-from-the-filesystem
-// 2024-10-24
+// 2024/10/24
 
 class Solution {
 public:

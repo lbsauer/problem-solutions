@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-eventual-safe-states
-// 2024-11-06
+// 2024/11/06
 
 class Solution {
     bool dfs(vector<vector<int>>& graph, vector<bool>& visited, vector<bool>& safe, int u) {

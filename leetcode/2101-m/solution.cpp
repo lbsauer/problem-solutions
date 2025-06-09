@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/detonate-the-maximum-bombs
-// 2024-11-09
+// 2024/11/09
 
 class Solution {
 public:

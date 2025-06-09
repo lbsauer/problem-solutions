@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-a-safe-walk-through-a-grid
-// 2024-11-14
+// 2024/11/14
 
 class Solution {
 public:

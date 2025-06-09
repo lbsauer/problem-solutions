@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-champion-ii
-// 2024-11-12
+// 2024/11/12
 
 class Solution {
 public:

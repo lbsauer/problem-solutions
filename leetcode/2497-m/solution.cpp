@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/maximum-star-sum-of-a-graph
-// 2024-11-05
+// 2024/11/05
 
 class Solution {
 public:

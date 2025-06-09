@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/reachable-nodes-with-restrictions
-// 2024-11-05
+// 2024/11/05
 
 class Solution {
     int find(vector<int>& sets, int x) {

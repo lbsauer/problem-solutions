@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/node-with-highest-edge-score
-// 2024-11-11
+// 2024/11/11
 
 class Solution {
 public:

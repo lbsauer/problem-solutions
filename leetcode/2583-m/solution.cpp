@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree
-// 2024-10-22
+// 2024/10/22
 
 /**
  * Definition for a binary tree node.

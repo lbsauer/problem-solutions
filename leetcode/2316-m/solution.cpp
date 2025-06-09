@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph
-// 2024-11-11
+// 2024/11/11
 
 class Solution {
     int find(vector<int>& sets, int x) {

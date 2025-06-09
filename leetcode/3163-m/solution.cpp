@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/string-compression-iii
-// 2024-11-03
+// 2024/11/03
 
 class Solution {
 public:

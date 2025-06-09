@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/remove-methods-from-project
-// 2024-11-14
+// 2024/11/14
 
 class Solution {
 public:

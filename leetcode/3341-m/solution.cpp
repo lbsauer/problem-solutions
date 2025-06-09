@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i
-// 2024-11-14
+// 2024/11/14
 
 class Solution {
 public:

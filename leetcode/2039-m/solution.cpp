@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/the-time-when-the-network-becomes-idle
-// 2024-11-09
+// 2024/11/09
 
 class Solution {
 public:

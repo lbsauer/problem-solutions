@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/satisfiability-of-equality-equations
-// 2024-11-16
+// 2024/11/16
 
 class Solution {
     int find(vector<int>& sets, int x) {

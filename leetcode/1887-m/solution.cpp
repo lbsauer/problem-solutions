@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal
-// 2024-11-01
+// 2024/11/01
 
 class Solution {
 public:

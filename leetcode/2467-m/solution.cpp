@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/most-profitable-path-in-a-tree
-// 2024-11-11
+// 2024/11/11
 
 class Solution {
     int bob_dfs(vector<vector<int>>& graph, vector<int>& dist, int u, int parent) {

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/frequency-tracker
-// 2024-11-02
+// 2024/11/02
 
 class FrequencyTracker {
     unordered_map<int, int> freq;

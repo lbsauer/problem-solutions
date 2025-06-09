@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph
-// 2024-11-13
+// 2024/11/13
 
 class Solution {
     int find(vector<int>& sets, int u) {

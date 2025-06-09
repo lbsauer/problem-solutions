@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/most-beautiful-item-for-each-query
-// 2024-11-11
+// 2024/11/11
 
 class Solution {
 public:

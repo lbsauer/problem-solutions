@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/maximum-xor-for-each-query
-// 2024-11-07
+// 2024/11/07
 
 class Solution {
 public:

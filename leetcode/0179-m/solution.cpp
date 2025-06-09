@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/largest-number
-// 2024-09-18
+// 2024/09/18
 
 class Solution {
 public:

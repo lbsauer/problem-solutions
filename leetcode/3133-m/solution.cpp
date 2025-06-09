@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/minimum-array-end
-// 2024-09-11
+// 2024/09/11
 
 class Solution {
 public:

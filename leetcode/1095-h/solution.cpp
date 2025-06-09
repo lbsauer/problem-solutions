@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-in-mountain-array
-// 2024-10-31
+// 2024/10/31
 
 /**
  * // This is the MountainArray's API interface.

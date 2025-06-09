@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes
-// 2024-11-13
+// 2024/11/13
 
 class Solution {
 public:

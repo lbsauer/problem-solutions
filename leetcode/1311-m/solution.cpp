@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/get-watched-videos-by-your-friends
-// 2024-11-07
+// 2024/11/07
 
 class Solution {
 public:

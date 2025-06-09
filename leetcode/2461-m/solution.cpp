@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
-// 2024-11-19
+// 2024/11/19
 
 class Solution {
 public:

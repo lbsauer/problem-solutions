@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i
-// 2024-11-16
+// 2024/11/16
 
 class Solution {
 public:

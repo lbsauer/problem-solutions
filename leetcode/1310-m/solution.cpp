@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/xor-queries-of-a-subarray
-// 2024-09-13
+// 2024/09/13
 
 class Solution {
 public:

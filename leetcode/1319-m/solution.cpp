@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/number-of-operations-to-make-network-connected
-// 2024-11-07
+// 2024/11/07
 
 class Solution {
     int find(vector<int>& parent, int x) {

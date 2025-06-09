@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array
-// 2024-09-18
+// 2024/09/18
 
 class Solution {
 public:

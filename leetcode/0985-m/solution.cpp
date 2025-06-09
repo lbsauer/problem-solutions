@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/sum-of-even-numbers-after-queries
-// 2024-10-23
+// 2024/10/23
 
 class Solution {
 public:

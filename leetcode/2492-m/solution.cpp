@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities
-// 2024-11-12
+// 2024/11/12
 
 class Solution {
     int find(vector<int>& sets, int x) {

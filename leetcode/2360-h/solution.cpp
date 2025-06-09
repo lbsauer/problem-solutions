@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/longest-cycle-in-a-graph
-// 2024-11-11
+// 2024/11/11
 
 class Solution {
 public:

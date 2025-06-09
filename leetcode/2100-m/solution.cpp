@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-good-days-to-rob-the-bank
-// 2024-10-31
+// 2024/10/31
 
 class Solution {
 public:

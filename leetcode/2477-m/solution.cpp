@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital
-// 2024-11-12
+// 2024/11/12
 
 class Solution {
 public:
